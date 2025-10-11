@@ -20,7 +20,7 @@ embedded_example_file: "examples/Force_Sensitive_Resistor_minimal/Force_Sensitiv
 
 # Drucksensor
 
-![Drucksensor](31_drucksensor.jpg)
+![Drucksensor](./31_drucksensor.jpg)
 
 ## Beschreibung
 Der Drucksensor ermöglicht es, Kräfte, die auf den Sensor wirken, zu bestimmen. Wird die Sensorfläche belastet, ändert sich der elektrische Widerstand zwischen den Anschlusspins. Durch eine Widerstandsmessung, kann folglich auf den einwirkenden Druck (also Kraft pro Flächeneinheit) geschlossen werden.
