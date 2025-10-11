@@ -1,4 +1,3 @@
-
 ---
 title: "Drucksensor"
 date: "2018-10-01T13:54:33.000Z"
