@@ -31,8 +31,6 @@ Der Sensor kann genutzt werden, um eine Berührung eines Objekts zu erkennen. Zu
 Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau sind im Datenblatt des Sensors zusammengefasst. Zusätzlich findet man über alle gängigen Suchmaschinen durch die Eingabe der genauen Komponentenbezeichnungen entsprechende Projektbeispiele und Tutorials. Hierbei ist das wichtige Stichwort „FSR“ (force sensing resistor).
 
 <!-- infolist -->
-
-<!-- infolists -->
 ## Wichtige Links für die ersten Schritte:
 
 - FSR Drucksensor [overview](https://www.sparkfun.com/datasheets/Sensors/Pressure/fsrguide.pdf)  
