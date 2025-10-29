@@ -14,6 +14,9 @@ repo_part: "Force_Sensitive_Resistor"
 product_url: "https://learn.adafruit.com/force-sensitive-resistor-fsr/using-an-fsr"
 clone_url: "https://github.com/Make-Your-School/mks-generic-Force_Sensitive_Resistor.git"
 embedded_example_file: "examples/Force_Sensitive_Resistor_minimal/Force_Sensitive_Resistor_minimal.ino"
+title: 'Drucksensor'
+status: 'active'
+difficulty: 'advanced'
 ---
 
 
